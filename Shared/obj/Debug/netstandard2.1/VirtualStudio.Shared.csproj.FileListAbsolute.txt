@@ -1,0 +1,9 @@
+C:\Users\olive\source\repos\VirtualStudio\Shared\bin\Debug\netstandard2.1\VirtualStudio.Shared.deps.json
+C:\Users\olive\source\repos\VirtualStudio\Shared\bin\Debug\netstandard2.1\VirtualStudio.Shared.dll
+C:\Users\olive\source\repos\VirtualStudio\Shared\bin\Debug\netstandard2.1\VirtualStudio.Shared.pdb
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.AssemblyInfo.cs
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.dll
+C:\Users\olive\source\repos\VirtualStudio\Shared\obj\Debug\netstandard2.1\VirtualStudio.Shared.pdb
